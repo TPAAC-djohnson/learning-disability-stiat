@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Learning Disability ST-IAT (Debug)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <h1>Learning Disability ST-IAT — Debug</h1>
+    <p class="tiny">This page shows the computed scores at the end (no Qualtrics redirect).</p>
+
+    <div id="panel" class="panel">
+      <div id="labels" class="labels">
+        <div class="label left">
+          <div id="leftTop" class="top"></div>
+          <div id="leftBottom" class="bottom"></div>
+        </div>
+        <div class="label right">
+          <div id="rightTop" class="top"></div>
+          <div id="rightBottom" class="bottom"></div>
+        </div>
+      </div>
+
+      <div id="stimulus" class="stimulus"></div>
+      <div id="feedback" class="feedback"></div>
+
+      <div id="instructions" class="instructions"></div>
+      <button id="startBtn" class="btn">Start</button>
+
+      <div id="debugOut" class="debugOut"></div>
+    </div>
+  </main>
+
+  <script>
+    // flag used by stiat.js to decide whether to redirect
+    window.STIAT_DEBUG = true;
+  </script>
+  <script src="stiat.js"></script>
+</body>
+</html>
