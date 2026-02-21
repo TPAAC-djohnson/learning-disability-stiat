@@ -1,0 +1,21 @@
+<div class="instruct" id="instructions">
+  <p>
+    Continue sorting the words using the current category arrangement shown at the top of the screen.
+    <br><br>
+    Use the <strong>E</strong> key for the category or categories on the left 
+    and the <strong>I</strong> key for the category or categories on the right.
+    <br><br>
+    Respond as quickly as you can while making as few mistakes as possible.
+    <br><br>
+    If you make an error, a red <span style="color:red;"><strong>X</strong></span> will appear.
+    Correct the error by pressing the other key.
+    <br><br>
+    When you are ready, press the [Space] bar to begin.
+    <br><br>
+    Part 5 of 5
+  </p>
+</div>
+<p class="note" id="note"></p>
+</div>
+
+<div style="opacity: 0; font-size:300px; color:#fff;"><p>x</p></div>
