@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; background:#fff; color:#111; margin:0; }
+.wrap { max-width: 900px; margin: 30px auto; padding: 0 16px; }
+.panel { border:1px solid #ddd; border-radius: 12px; padding: 18px; }
+.labels { display:flex; justify-content:space-between; gap:12px; margin-bottom: 22px; }
+.label { width: 48%; border:1px solid #eee; border-radius: 10px; padding: 10px; min-height: 74px; }
+.top { font-weight:700; }
+.bottom { margin-top: 6px; font-weight:700; }
+.stimulus { text-align:center; font-size: 44px; margin: 34px 0 10px; min-height: 56px; }
+.feedback { text-align:center; font-size: 42px; color: #c00; min-height: 48px; }
+.instructions { font-size: 16px; line-height: 1.4; margin-top: 10px; }
+.btn { margin-top: 12px; padding: 10px 14px; border-radius: 10px; border:1px solid #111; background:#111; color:#fff; cursor:pointer; }
+.btn:disabled { opacity: .5; cursor:not-allowed; }
+.tiny { color:#444; font-size: 12px; margin-top: 10px; }
+kbd { border:1px solid #ccc; border-bottom-width:2px; padding:2px 6px; border-radius:6px; }
