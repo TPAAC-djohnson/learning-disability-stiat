@@ -1,0 +1,24 @@
+<div class="instruct" id="instructions">
+  <p>
+    In this task, you will sort words into categories that appear at the top of the screen.
+    <br><br>
+    Place your left index finger on the <strong>E</strong> key and your right index finger on the <strong>I</strong> key.
+    <br><br>
+    Words will appear in the center of the screen. 
+    If the word belongs to a category shown on the left, press the <strong>E</strong> key.
+    If the word belongs to a category shown on the right, press the <strong>I</strong> key.
+    <br><br>
+    If you make a mistake, a red <span style="color:red;"><strong>X</strong></span> will appear.
+    Correct the error by pressing the other key.
+    <br><br>
+    Work as quickly as you can while making as few errors as possible.
+    <br><br>
+    When you are ready, press the [Space] bar to begin.
+    <br><br>
+    Part 1 of 5
+  </p>
+</div>
+<p class="note" id="note"></p>
+</div>
+
+<div style="opacity: 0; font-size:300px; color:#fff;"><p>x</p></div>
